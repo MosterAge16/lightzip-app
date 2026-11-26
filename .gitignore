@@ -1,0 +1,12 @@
+# 签名密钥（绝不能提交！泄露后任何人可签恶意更新）
+release.jks
+*.jks
+*.keystore
+
+# 构建产物
+build/
+dist/
+
+# 日志与临时文件
+*.log
+crash.txt
